@@ -1,9 +1,7 @@
 # Cyberspace
 
-Demo site for Hugo [cyberscape](https://github.com/isaksolheim/cyberscape) theme
-
-![Screenshot](https://github.com/isaksolheim/cyberscape/blob/main/images/screenshot.jpg)
+Demo site for Hugo [cyberscape](https://github.com/isaksolheim/cyberscape) theme. Deployed using [this action](https://github.com/isaksolheim/cyberspace/blob/main/.github/workflows/hugo.yaml)
 
 ## License
 
-[MIT](https://github.com/isaksolheim/cyberscape/blob/main/LICENSE)
+[MIT](https://github.com/isaksolheim/cyberspace/blob/main/LICENSE)
