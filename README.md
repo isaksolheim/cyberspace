@@ -1,6 +1,6 @@
 # Cyberspace
 
-Demo site for Hugo [cyberscape](https://github.com/isaksolheim/cyberscape) theme. Deployed using [this action](https://github.com/isaksolheim/cyberspace/blob/main/.github/workflows/hugo.yaml)
+Demo site for Hugo [cyberscape](https://github.com/isaksolheim/cyberscape) theme.
 
 ## License
 
