@@ -1,1 +1,17 @@
 theme = 'cyberscape'
+baseURL = 'https://github.com/isaksolheim/cyberspace'
+languageCode = 'en-us'
+title = 'Hugo theme cyberscape demo website'
+
+[[menu.main]]
+name = "markdown"
+url = "/markdown/"
+weight = 1
+
+[[menu.main]]
+name = "resources"
+url = "/resources/"
+weight = 2
+
+[markup.goldmark.renderer]
+unsafe=true
