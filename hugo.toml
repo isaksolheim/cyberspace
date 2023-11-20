@@ -1,8 +1,9 @@
 theme = 'cyberscape'
-baseURL = 'https://github.com/isaksolheim/cyberspace'
+baseURL = 'https://isaksolheim.github.io/cyberspace/'
 languageCode = 'en-us'
 title = 'Hugo theme cyberscape demo website'
 
+# Add any links to things in /content/ here
 [[menu.main]]
 name = "markdown"
 url = "/markdown/"
@@ -13,5 +14,6 @@ name = "resources"
 url = "/resources/"
 weight = 2
 
+# Enable this for Tailwind in markdown files
 [markup.goldmark.renderer]
 unsafe=true
