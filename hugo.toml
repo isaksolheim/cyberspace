@@ -1,5 +1,6 @@
 theme = 'cyberscape'
 baseURL = 'https://isaksolheim.github.io/cyberspace/'
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'Hugo theme cyberscape demo website'
 
