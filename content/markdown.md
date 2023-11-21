@@ -13,5 +13,3 @@ const jsFunction = () => {
   console.log("i am a javascript function");
 };
 ```
-
-change
